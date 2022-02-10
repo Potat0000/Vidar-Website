@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.9.2",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-popper": "^2.2.5",
